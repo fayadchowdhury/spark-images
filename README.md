@@ -1,6 +1,8 @@
-# Spark-Jobs
+# Spark-Images
 
 ![Banner](./assets/featured-image.png)
+
+## THIS README IS INVALID; NEED TO REDO
 
 This repository is going to house all of my experimental PySpark scripts. I may set up a CI/CD pipeline to build Docker images with required JARs later.
 
